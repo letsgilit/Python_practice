@@ -1,1 +1,3 @@
-print("hello world")
+a=b=[1,2,2,3,3,3,4,4,4,4]
+b[1]=0
+print(a is b)
